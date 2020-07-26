@@ -1,3 +1,3 @@
-# test
+# TGC Notes
 
-- this is test!
+- [Call CDN in JavaScript](./call_cdn_in_javascript.md)
