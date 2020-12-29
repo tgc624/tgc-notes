@@ -1,4 +1,7 @@
-# Clipboard bookmarklet
+---
+layout: page
+title: Clipboard bookmarklet
+---
 
 ## Code
 

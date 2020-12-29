@@ -1,4 +1,7 @@
-# Call CDN in JavaScript
+---
+layout: page
+title: Call CDN in JavaScript
+---
 
 ## Code
 
