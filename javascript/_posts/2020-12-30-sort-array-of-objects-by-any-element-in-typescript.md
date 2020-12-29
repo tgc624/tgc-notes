@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Sort array of objects by any element in TypeScript
 modified_date: 2021-01-31
 ---
