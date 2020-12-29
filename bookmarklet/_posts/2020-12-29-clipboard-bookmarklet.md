@@ -1,8 +1,3 @@
----
-layout: page
-title: Clipboard bookmarklet
----
-
 ## Code
 
 ```js

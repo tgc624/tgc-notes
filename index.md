@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Site map
+title: Home
 ---
 
-- [Call CDN in JavaScript](./call_cdn_in_javascript/index.md)
-- [Sort array of objects by any element in TypeScript](./sort_array_of_objects_by_any_element_in_typescript/index.md)
-- Bookmarklets
-  - [Clipboard](./bookmarklets/clipboard/index.md)
+{% for category in site.categories %}
+
+  <h2>{{ category[0] }}</h2>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url | relative_url }}"> {{ post.title | escape }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
