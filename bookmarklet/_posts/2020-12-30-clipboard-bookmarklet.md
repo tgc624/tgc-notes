@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clipboard bookmarklettt
-modified_date: 2021-01-30
+modified_date: 2008-12-14 10:30:00 +0900
 ---
 
 ## Code
