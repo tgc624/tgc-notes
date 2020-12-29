@@ -1,5 +1,3 @@
-# Call CDN in JavaScript
-
 ## Code
 
 ```js
