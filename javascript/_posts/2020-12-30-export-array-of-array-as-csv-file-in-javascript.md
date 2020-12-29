@@ -1,5 +1,3 @@
-# Export array of array as csv file in JavaScript
-
 ## Code
 
 ```js
