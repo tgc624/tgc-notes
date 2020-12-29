@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Sort array of objects by any element in TypeScript
 ---
 
