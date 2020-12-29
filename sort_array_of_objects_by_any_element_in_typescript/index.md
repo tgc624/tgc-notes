@@ -1,4 +1,7 @@
-# Sort array of objects by any element in TypeScript
+---
+layout: post
+title: Sort array of objects by any element in TypeScript
+---
 
 ## Code
 
