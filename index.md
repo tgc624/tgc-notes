@@ -2,5 +2,6 @@
 
 - [Call CDN in JavaScript](./call_cdn_in_javascript/index.md)
 - [Sort array of objects by any element in TypeScript](./sort_array_of_objects_by_any_element_in_typescript/index.md)
+- [Export array of array as csv file in JavaScript](./export_array_of_array_as_csv_file_in_javascript/index.md)
 - Bookmarklets
   - [Clipboard](./bookmarklets/clipboard/index.md)
