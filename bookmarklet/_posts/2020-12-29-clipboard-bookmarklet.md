@@ -1,5 +1,3 @@
-# Clipboard bookmarklet
-
 ## Code
 
 ```js
