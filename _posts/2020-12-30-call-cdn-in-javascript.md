@@ -1,8 +1,3 @@
----
-layout: page
-title: Call CDN in JavaScript
----
-
 ## Code
 
 ```js

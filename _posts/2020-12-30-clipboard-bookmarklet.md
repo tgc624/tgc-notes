@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Clipboard bookmarklet
+layout: post
+title: Clipboard bookmarklettt
 ---
 
 ## Code
